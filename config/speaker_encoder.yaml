@@ -1,4 +1,4 @@
 path:  
-  data_path: "/media/cxnam/cxnam_folder/Text-Audio-Alignment/mfa_data"
-  model_folder_path: "/media/cxnam/cxnam_folder/SpeakerEmbedding/voxceleb_resnet34_LM"
-  output_path: "/media/cxnam/cxnam_folder/Text-Audio-Alignment/preprocessed_data/embedding"
+  data_path: "../Text-Audio-Alignment/mfa_data"
+  model_folder_path: "./voxceleb_resnet34_LM"
+  output_path: "../Text-Audio-Alignment/preprocessed_data/embedding"
